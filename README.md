@@ -3,7 +3,7 @@ Quick install
 
 ## clone
 ```
-git clone git@192.168.10.17:jincheng/webpack-browser.git
+git@github.com:lylijincheng/webpack-starter.git
 ```
 
 ## install webpack globally
